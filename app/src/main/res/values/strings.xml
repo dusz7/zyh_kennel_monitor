@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NewKennelMonitor</string>
+
+    <string name="kennel_list_name">Kennel</string>
+    <string name="kennel_list_state_normal">normal</string>
+    <string name="kennel_list_state_operation">operation</string>
+    <string name="kennel_list_state_error">error</string>
+
+    <string name="kennel_info_sensor1">sensor</string>
+    <string name="kennel_info_sensor2">sensor2</string>
+    <string name="kennel_info_t">Temperature</string>
+    <string name="kennel_info_h">Humidity</string>
+
+    <string name="kennel_state_label">kennel state in the 30 mins before</string>
+
+    <string name="appKey">ce623e8d32661f07cc185862722ca16f</string>
+    <string name="restKey">25d230fee5ced3b97d4ea6d11321eaae</string>
+    <string name="bmob_class_url">https://api.bmob.cn/1/classes/KennelState</string>
+</resources>
